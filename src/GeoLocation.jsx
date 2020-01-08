@@ -9,7 +9,7 @@ export default class Geo extends React.Component {
                     <label>Latitude:</label>
                     <input type="text" placeholder={this.props.latitude}></input>
                     <label>Longitude:</label>
-                    <input type="text" placeholder={this.props.longitude}></input>
+                    <input type="text" placeholder={this.props.longitude}></input>n
                 </div>
                 <span>Your Position!</span>
             </div>
